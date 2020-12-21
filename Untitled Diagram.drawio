@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T20:57:18.355Z" agent="5.0 (Windows)" version="14.1.1" etag="Ldhs6DjuANnZNZNMkfZJ" type="github"><diagram id="NHH0tB7brkYuIL4qMm8f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-21T21:14:17.095Z" agent="5.0 (Windows)" etag="OF1b8awIrpuENOCJAPY8" version="14.1.1" type="github">
+  <diagram id="NHH0tB7brkYuIL4qMm8f" name="Page-1">
+    <mxGraphModel dx="1102" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UpWsM9MtzED6iARKIbIq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpWsM9MtzED6iARKIbIq-1" target="UpWsM9MtzED6iARKIbIq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="You are alone. For what seems to be the first time in ages." id="UpWsM9MtzED6iARKIbIq-1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="290" y="20" width="170" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpWsM9MtzED6iARKIbIq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-7" value="&lt;div&gt;Great job. &lt;br&gt;&lt;/div&gt;&lt;div&gt;This must&#39;ve been &lt;br&gt;&lt;/div&gt;&lt;div&gt;the most stupid you have ever looked.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="120" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpWsM9MtzED6iARKIbIq-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-10" value="&lt;div&gt;Check the counter.&lt;/div&gt;&lt;div&gt;To your left.&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpWsM9MtzED6iARKIbIq-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-14" value="I know there&#39;s nothing there." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="370" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpWsM9MtzED6iARKIbIq-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-21" value="&quot;...&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpWsM9MtzED6iARKIbIq-17">
+          <mxGeometry x="-0.1077" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UpWsM9MtzED6iARKIbIq-16" target="UpWsM9MtzED6iARKIbIq-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-22" value="&quot;What details?&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UpWsM9MtzED6iARKIbIq-18">
+          <mxGeometry x="-0.15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-16" value="&lt;div&gt;But I guess,&lt;br&gt;&lt;/div&gt;&lt;div&gt;there&#39;s something to be found&lt;/div&gt;&lt;div&gt;in the details.&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpWsM9MtzED6iARKIbIq-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-19" value="&lt;div&gt;You&#39;re not going to say anything,&lt;/div&gt;&lt;div&gt;right?&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpWsM9MtzED6iARKIbIq-20" target="UpWsM9MtzED6iARKIbIq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-20" value="I&#39;m not sure this is something you&#39;d want to ask." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpWsM9MtzED6iARKIbIq-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-24" value="I can work with that." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UpWsM9MtzED6iARKIbIq-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpWsM9MtzED6iARKIbIq-25" value="So little time, so much to do." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
